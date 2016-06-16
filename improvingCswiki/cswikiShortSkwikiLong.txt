@@ -1,59 +1,57 @@
-CONCAT("<li>https://www.wikidata.org/wiki/Q", ips_item_id, "</li>")
-<li>https://www.wikidata.org/wiki/Q1841</li>
-<li>https://www.wikidata.org/wiki/Q1071089</li>
-<li>https://www.wikidata.org/wiki/Q664103</li>
-<li>https://www.wikidata.org/wiki/Q192619</li>
-<li>https://www.wikidata.org/wiki/Q730761</li>
-<li>https://www.wikidata.org/wiki/Q259035</li>
-<li>https://www.wikidata.org/wiki/Q550357</li>
-<li>https://www.wikidata.org/wiki/Q324089</li>
-<li>https://www.wikidata.org/wiki/Q465312</li>
-<li>https://www.wikidata.org/wiki/Q94489</li>
-<li>https://www.wikidata.org/wiki/Q924146</li>
-<li>https://www.wikidata.org/wiki/Q337440</li>
-<li>https://www.wikidata.org/wiki/Q481564</li>
-<li>https://www.wikidata.org/wiki/Q703012</li>
-<li>https://www.wikidata.org/wiki/Q1073263</li>
-<li>https://www.wikidata.org/wiki/Q188867</li>
-<li>https://www.wikidata.org/wiki/Q754768</li>
-<li>https://www.wikidata.org/wiki/Q429676</li>
-<li>https://www.wikidata.org/wiki/Q1186092</li>
-<li>https://www.wikidata.org/wiki/Q182496</li>
-<li>https://www.wikidata.org/wiki/Q3327819</li>
-<li>https://www.wikidata.org/wiki/Q133223</li>
-<li>https://www.wikidata.org/wiki/Q36260</li>
-<li>https://www.wikidata.org/wiki/Q475221</li>
-<li>https://www.wikidata.org/wiki/Q1072533</li>
-<li>https://www.wikidata.org/wiki/Q208750</li>
-<li>https://www.wikidata.org/wiki/Q213230</li>
-<li>https://www.wikidata.org/wiki/Q3895</li>
-<li>https://www.wikidata.org/wiki/Q283354</li>
-<li>https://www.wikidata.org/wiki/Q103910</li>
-<li>https://www.wikidata.org/wiki/Q394</li>
-<li>https://www.wikidata.org/wiki/Q1092830</li>
-<li>https://www.wikidata.org/wiki/Q1543464</li>
-<li>https://www.wikidata.org/wiki/Q30026</li>
-<li>https://www.wikidata.org/wiki/Q29171</li>
-<li>https://www.wikidata.org/wiki/Q184554</li>
-<li>https://www.wikidata.org/wiki/Q664017</li>
-<li>https://www.wikidata.org/wiki/Q847350</li>
-<li>https://www.wikidata.org/wiki/Q605966</li>
-<li>https://www.wikidata.org/wiki/Q183464</li>
-<li>https://www.wikidata.org/wiki/Q171341</li>
-<li>https://www.wikidata.org/wiki/Q37686</li>
-<li>https://www.wikidata.org/wiki/Q740778</li>
-<li>https://www.wikidata.org/wiki/Q990555</li>
-<li>https://www.wikidata.org/wiki/Q193442</li>
-<li>https://www.wikidata.org/wiki/Q686929</li>
-<li>https://www.wikidata.org/wiki/Q36359</li>
-<li>https://www.wikidata.org/wiki/Q43455</li>
-<li>https://www.wikidata.org/wiki/Q833845</li>
-<li>https://www.wikidata.org/wiki/Q35392</li>
-<li>https://www.wikidata.org/wiki/Q310491</li>
-<li>https://www.wikidata.org/wiki/Q104168</li>
-<li>https://www.wikidata.org/wiki/Q19577</li>
-<li>https://www.wikidata.org/wiki/Q221409</li>
-<li>https://www.wikidata.org/wiki/Q27541</li>
-<li>https://www.wikidata.org/wiki/Q157544</li>
-<li>https://www.wikidata.org/wiki/Q651222</li>
-<li>https://www.wikidata.org/wiki/Q847336</li>
+* [[:d:Q1841]]
+* [[:d:Q1071089]]
+* [[:d:Q664103]]
+* [[:d:Q192619]]
+* [[:d:Q730761]]
+* [[:d:Q550357]]
+* [[:d:Q259035]]
+* [[:d:Q324089]]
+* [[:d:Q465312]]
+* [[:d:Q94489]]
+* [[:d:Q924146]]
+* [[:d:Q337440]]
+* [[:d:Q481564]]
+* [[:d:Q703012]]
+* [[:d:Q1073263]]
+* [[:d:Q188867]]
+* [[:d:Q754768]]
+* [[:d:Q429676]]
+* [[:d:Q1186092]]
+* [[:d:Q182496]]
+* [[:d:Q3327819]]
+* [[:d:Q36260]]
+* [[:d:Q475221]]
+* [[:d:Q1072533]]
+* [[:d:Q208750]]
+* [[:d:Q213230]]
+* [[:d:Q3895]]
+* [[:d:Q283354]]
+* [[:d:Q103910]]
+* [[:d:Q394]]
+* [[:d:Q1092830]]
+* [[:d:Q1543464]]
+* [[:d:Q30026]]
+* [[:d:Q29171]]
+* [[:d:Q184554]]
+* [[:d:Q664017]]
+* [[:d:Q847350]]
+* [[:d:Q605966]]
+* [[:d:Q183464]]
+* [[:d:Q171341]]
+* [[:d:Q37686]]
+* [[:d:Q740778]]
+* [[:d:Q990555]]
+* [[:d:Q193442]]
+* [[:d:Q686929]]
+* [[:d:Q36359]]
+* [[:d:Q43455]]
+* [[:d:Q833845]]
+* [[:d:Q35392]]
+* [[:d:Q310491]]
+* [[:d:Q104168]]
+* [[:d:Q19577]]
+* [[:d:Q221409]]
+* [[:d:Q157544]]
+* [[:d:Q27541]]
+* [[:d:Q651222]]
+* [[:d:Q847336]]
