@@ -8,5 +8,5 @@ echo >> /data/scratch/$$.txt
 cat cswikiStubSkwikiFeatured.txt >> /data/scratch/$$.txt
 
 ./empty.py User:UrbanecmBot/CSSK1
-python ~/pywikibot/scripts/add_text.py -textfile:/data/scratch/$$.txt -page:User:UrbanecmBot/CSSK1
+python ~/pywikibot/scripts/add_text.py -always -textfile:/data/scratch/$$.txt -page:User:UrbanecmBot/CSSK1
 rm /data/scratch/$$.txt

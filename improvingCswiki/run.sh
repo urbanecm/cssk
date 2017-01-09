@@ -1,3 +1,4 @@
 #!/bin/bash
 
-sql wikidatawiki < $1.sql > $1.txt
+sql wikidatawiki < $1.sql | tr -d '\t' > $1.txt
+
